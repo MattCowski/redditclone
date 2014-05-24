@@ -34,4 +34,4 @@ app.config(function ($routeProvider) {
       redirectTo: '/'
     });
 })
-.constant('FIREBASE_URL', 'https://ang-news-harry.firebaseio.com/');
+.constant('FIREBASE_URL', 'https://kts32014.firebaseio.com/');
